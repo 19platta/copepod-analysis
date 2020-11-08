@@ -23,8 +23,8 @@ I used Pytest to create unit tests for the data processing functions. To install
 
 This project contains the following files: 
 
-`data/: a directory where the data is written to and stored. Not tracked by Github, nor is the data due to licensing.    
-    whale_data: where the whale data is extracted to     
+data/: a directory where the data is written to and stored. Not tracked by Github, nor is the data due to licensing.      
+    whale_data: where the whale data is extracted to      
         eml.xml    
         meta.xml    
         occurrence.txt: this is the main file containing the actual data   
@@ -35,7 +35,7 @@ effects_of_c_finmarchicus.py: The Jupyter notebook containing a computational es
 process_data.py: the functions used for filtering and splitting dataframes  
 retrieve_data.py: script that scrapes the necessary websites and downloads the data to .csv files  
 test_process_data.py: pytest file that tests the functions in process_data.py  
-visualizations.py: file containing functions helpful for creating visualizations`
+visualizations.py: file containing functions helpful for creating visualizations
 
 
 ## Usage
