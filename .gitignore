@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/data/copepod_data.csv
+/data/whale_df.csv
+/data/whale_data/
+/data/whale_data/eml.xml
+/data/whale_data/meta.xml
+/data/whale_data/occurrence.txt
