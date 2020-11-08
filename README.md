@@ -23,7 +23,7 @@ I used Pytest to create unit tests for the data processing functions. To install
 
 This project contains the following files: 
 
-`data/: a directory where the data is written to and stored. The folder is tracked by Github, but everything inside is not.   
+`data/: a directory where the data is written to and stored. Not tracked by Github, nor is the data due to licensing.    
     whale_data: where the whale data is extracted to     
         eml.xml    
         meta.xml    
